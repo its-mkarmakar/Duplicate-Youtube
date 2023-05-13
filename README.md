@@ -1,4 +1,4 @@
-# YouTube Front Page Clone
+# YouTube-Clone
 
 ![Project Image](./screenshot.png)
 

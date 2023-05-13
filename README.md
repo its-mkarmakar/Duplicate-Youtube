@@ -1,7 +1,5 @@
 # Duplicate Youtub
 
-![Project Image](./screenshot.png)
-
 This project is a clone of the YouTube front page, created using HTML, CSS, and JavaScript.
 
 ## Description

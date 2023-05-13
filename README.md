@@ -6,7 +6,7 @@ This project is a clone of the YouTube front page, created using HTML, CSS, and 
 
 ## Description
 
-The YouTube Front Page Clone project aims to replicate the visual design and functionality of the YouTube front page. By utilizing modern web technologies, including HTML, CSS, and JavaScript, this clone provides users with a familiar interface for browsing and discovering videos.
+The YouTubeClone project aims to replicate the visual design and functionality of the YouTube front page. By utilizing modern web technologies, including HTML, CSS, and JavaScript, this clone provides users with a familiar interface for browsing and discovering videos.
 
 ## Features
 

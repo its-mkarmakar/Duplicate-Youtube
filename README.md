@@ -50,10 +50,6 @@ To contribute to this project, follow these steps:
 4. Push to the branch:
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ## Acknowledgements
 
 - [YouTube](https://www.youtube.com) - The inspiration for this project.

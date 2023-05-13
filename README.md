@@ -1,4 +1,4 @@
-# YouTube-Clone
+# Duplicate Youtub
 
 ![Project Image](./screenshot.png)
 
@@ -6,7 +6,7 @@ This project is a clone of the YouTube front page, created using HTML, CSS, and 
 
 ## Description
 
-The YouTube-Clone project aims to replicate the visual design and functionality of the YouTube front page. By utilizing modern web technologies, including HTML, CSS, and JavaScript, this clone provides users with a familiar interface for browsing and discovering videos.
+The Duplicate Youtub project aims to replicate the visual design and functionality of the YouTube front page. By utilizing modern web technologies, including HTML, CSS, and JavaScript, this clone provides users with a familiar interface for browsing and discovering videos.
 
 ## Features
 
@@ -17,7 +17,7 @@ The YouTube-Clone project aims to replicate the visual design and functionality 
 
 ## Demo
 
-Check out the live demo of the YouTube Front Page Clone [here](https://your-demo-link.com).
+Check out the live demo of the YouTube Front Page Clone [here](https://duplicate-youtub.netlify.app/).
 
 ## Installation
 

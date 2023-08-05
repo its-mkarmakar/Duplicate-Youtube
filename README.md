@@ -1,4 +1,4 @@
-# Duplicate Youtub
+# Duplicate Youtube
 
 This project is a clone of the YouTube front page, created using HTML5, CSS3, and JavaScript.
 

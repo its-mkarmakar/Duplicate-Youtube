@@ -23,8 +23,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/its-mkarmakar/temperature-converter.git
-    cd temperature-converter
+    git clone https://github.com/its-mkarmakar/Duplicate-Youtube.git
+    cd Duplicate-Youtube
     ```
 2. Navigate to the project folder:
 

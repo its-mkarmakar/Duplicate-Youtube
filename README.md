@@ -15,7 +15,7 @@ The Duplicate Youtub project aims to replicate the visual design and functionali
 
 ## Demo
 
-Check out the live demo of the YouTube Front Page Clone [here](https://duplicate-youtub.netlify.app/).
+Check out the live demo of the YouTube Front Page Clone [here](https://its-mkarmakar.github.io/Duplicate-Youtube/).
 
 ## Installation
 

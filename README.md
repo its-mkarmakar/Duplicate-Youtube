@@ -22,7 +22,10 @@ Check out the live demo of the YouTube Front Page Clone [here](https://duplicate
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-
+    ```bash
+    git clone https://github.com/its-mkarmakar/temperature-converter.git
+    cd temperature-converter
+    ```
 2. Navigate to the project folder:
 
 3. Open the `index.html` file in your preferred web browser.
